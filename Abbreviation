@@ -1,0 +1,36 @@
+B:
+BSS - Block Started by Symbol
+
+E:
+ELF - Executable and Linkabe Format
+
+G:
+GDB - GNU Debugger
+
+I:
+I2C: Inter-Integrated Circuit
+
+M:
+MMU - Memory Management Unit
+MPU - Memory Protection Unit
+
+N:
+NVIC: Nested Vector Interrupt Controller
+
+O:
+OpenOCD - Open On-Chip Debugger
+
+P:
+
+Q:
+
+R:
+
+S:
+SPI - Serial Periperal Interface
+SCB - System Control Block
+
+T:
+
+U:
+Universal Serial Bus
