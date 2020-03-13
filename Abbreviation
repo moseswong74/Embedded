@@ -9,6 +9,8 @@ GDB - GNU Debugger
 
 I:
 I2C: Inter-Integrated Circuit
+IVT: Interrupt Vector Table
+ISR: Interrupt Service Routine
 
 M:
 MMU - Memory Management Unit
@@ -31,6 +33,7 @@ SPI - Serial Periperal Interface
 SCB - System Control Block
 
 T:
+TLS - Transport Layser Security
 
 U:
 Universal Serial Bus
