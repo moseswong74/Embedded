@@ -1,5 +1,16 @@
+A:
+ABI - Application Binary Interface
+
 B:
 BSS - Block Started by Symbol
+
+C:
+CFSR - Configurable Fault Status Register
+CCM - Core Coupled Memory
+
+D:
+DMB - Data Memory Barrier
+DSB - Data Synchronization Barrier
 
 E:
 ELF - Executable and Linkabe Format
@@ -11,6 +22,10 @@ I:
 I2C: Inter-Integrated Circuit
 IVT: Interrupt Vector Table
 ISR: Interrupt Service Routine
+ISB: Instruction Synchronization Barrier
+
+L:
+LMA - Load Memory Address
 
 M:
 MMU - Memory Management Unit
@@ -27,6 +42,8 @@ P:
 Q:
 
 R:
+RCC - Reset Clock Control
+RVR - Reload Value Register
 
 S:
 SPI - Serial Periperal Interface
@@ -34,6 +51,10 @@ SCB - System Control Block
 
 T:
 TLS - Transport Layser Security
+
+V:
+VMA - Virtual Memory Address
+VTOR- Vector Table Offset Register
 
 U:
 Universal Serial Bus
